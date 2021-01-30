@@ -8,7 +8,8 @@
     "cache_update_frequency_often": 1200000,
     "cache_update_frequency_sometimes": 3600000,
     "cache_update_frequency_rarely": 43200000,
-    "default_lang": "en",
+    "default_lang": "es",
+    "forcedefaultlang": true,
     "languages": {
         "ar": "عربي",
         "bg": "Български",
@@ -81,7 +82,7 @@
         93.75
     ],
     "customurlscheme": "moodlemobile",
-    "siteurl": "",
+    "siteurl": "https://academy.volunteeredinburgh.org.uk", 
     "sitename": "",
     "multisitesdisplay": "",
     "sitefindersettings": {},
